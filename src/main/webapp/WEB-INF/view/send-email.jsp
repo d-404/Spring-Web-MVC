@@ -8,7 +8,7 @@
 <title>Send Email</title>
 </head>
 <body>
-	<h2>Hi,</h2>
+	<h2>Hi ${userName},</h2>
 	<h3>Send result to your email!</h3>
 	<form:form action="/LoveCalculator/process-email" method="GET"
 		modelAttribute="emailDTO">

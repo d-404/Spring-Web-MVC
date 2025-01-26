@@ -12,6 +12,6 @@
 	<p>User Name is : ${userInfoDTO.userName}
 	<p>
 		Crush Name is : ${userInfoDTO.crushName} <br /> are FRIENDs<br /> <a
-			href="/LoveCalculator/sendEmail/"> Send result to email</a>
+			href="/LoveCalculator/sendEmail"> Send result to email</a>
 </body>
 </html>
